@@ -75,6 +75,9 @@ p {
     color: #333;
 }
 
+.clr {
+    clear: both;
+}
 
 /* Navbar */
 #navbar {
@@ -174,4 +177,12 @@ color: #f7c08a;
 
 .box i {
     margin-bottom: 10px;
+} 
+
+/* Footer */
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }
