@@ -154,3 +154,7 @@ color: #f7c08a;
     padding: 50px 30px;
     overflow: hidden;
 }
+
+#home-info .info-content p {
+    padding-bottom: 30px;
+}
